@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sleek_kite_1215), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where The Rows Go](./practice/sql/where-the-rows-go) | SQL | Easy | 2026-10-14 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-10-14 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-07-20 |
 
