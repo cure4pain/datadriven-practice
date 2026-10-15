@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Page Spreads](./practice/sql/content-page-spreads) | SQL | Hard | 2026-10-15 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-10-15 |
 | [Crossed Signals](./practice/sql/crossed-signals) | SQL | Hard | 2026-10-15 |
 | [Second to One](./practice/sql/second-to-one) | SQL | Medium | 2026-10-15 |
