@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second to One](./practice/sql/second-to-one) | SQL | Medium | 2026-10-15 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-10-14 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-10-14 |
