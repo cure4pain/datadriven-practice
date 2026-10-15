@@ -1,6 +1,6 @@
-# sleek_kite_1215's data engineering practice
+# mildseven's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/sleek_kite_1215), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sleek_kite_1215), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-10-14 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-10-14 |
 | [Best Day for Ad Revenue](./practice/sql/best-day-for-ad-revenue) | SQL | Medium | 2026-10-14 |
