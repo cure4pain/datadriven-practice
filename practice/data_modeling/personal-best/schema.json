@@ -1,0 +1,94 @@
+{
+  "tables": [
+    {
+      "name": "exercises",
+      "columns": [
+        {
+          "name": "exercise_id",
+          "type": "BIGINT",
+          "key": "pk"
+        },
+        {
+          "name": "exercise_name",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "set_id",
+          "type": "BIGINT"
+        },
+        {
+          "name": "nr_of_reps",
+          "type": "BIGINT"
+        },
+        {
+          "name": "weight_lifted_in_set",
+          "type": "DECIMAL"
+        }
+      ]
+    },
+    {
+      "name": "workouts",
+      "columns": [
+        {
+          "name": "workout_id",
+          "type": "BIGINT",
+          "key": "pk"
+        },
+        {
+          "name": "exercise_id",
+          "type": "BIGINT",
+          "key": "fk"
+        },
+        {
+          "name": "workout_date",
+          "type": "DATE"
+        },
+        {
+          "name": "user_id",
+          "type": "BIGINT",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "user",
+      "columns": [
+        {
+          "name": "user_id",
+          "type": "BIGINT",
+          "key": "pk"
+        },
+        {
+          "name": "user_name",
+          "type": "BIGINT"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "workouts",
+        "column": "exercise_id",
+        "cardinality": "oneOrMany"
+      },
+      "to": {
+        "table": "exercises",
+        "column": "exercise_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "workouts",
+        "column": "user_id",
+        "cardinality": "oneOrMany"
+      },
+      "to": {
+        "table": "user",
+        "column": "user_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}

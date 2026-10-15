@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Personal Best](./practice/data_modeling/personal-best) | Data Modeling | Easy | 2026-10-15 |
 | [The Final Sale](./practice/sql/the-final-sale) | SQL | Medium | 2026-10-15 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-10-15 |
 | [Content Page Spreads](./practice/sql/content-page-spreads) | SQL | Hard | 2026-10-15 |
