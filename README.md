@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-16 |
 | [Fault Lines](./practice/sql/fault-lines) | SQL | Medium | 2026-10-16 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-10-16 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-16 |
