@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/mildseven), committed here
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-16 |
 | [Personal Best](./practice/data_modeling/personal-best) | Data Modeling | Easy | 2026-10-15 |
 | [The Final Sale](./practice/sql/the-final-sale) | SQL | Medium | 2026-10-15 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-10-15 |
